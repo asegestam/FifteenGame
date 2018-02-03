@@ -24,8 +24,6 @@ public class Cell extends JButton
     {
         return col;
     }
-    public void test() {
-    	
-    }
+
     
 }
